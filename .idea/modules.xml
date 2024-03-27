@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-app-gateway/mx-leadnews-app-gateway.iml" filepath="$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-app-gateway/mx-leadnews-app-gateway.iml" />
-      <module fileurl="file://$PROJECT_DIR$/heima-leadnews-gateway/mx-leadnews-gateway.iml" filepath="$PROJECT_DIR$/heima-leadnews-gateway/mx-leadnews-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mx-leadnews.iml" filepath="$PROJECT_DIR$/mx-leadnews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mx-leadnews-common/mx-leadnews-common.iml" filepath="$PROJECT_DIR$/mx-leadnews-common/mx-leadnews-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mx-leadnews-feign-api/mx-leadnews-feign-api.iml" filepath="$PROJECT_DIR$/mx-leadnews-feign-api/mx-leadnews-feign-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mx-leadnews-model/mx-leadnews-model.iml" filepath="$PROJECT_DIR$/mx-leadnews-model/mx-leadnews-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mx-leadnews-service/mx-leadnews-service.iml" filepath="$PROJECT_DIR$/mx-leadnews-service/mx-leadnews-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mx-leadnews-service/mx-leadnews-user/mx-leadnews-user.iml" filepath="$PROJECT_DIR$/mx-leadnews-service/mx-leadnews-user/mx-leadnews-user.iml" />
     </modules>
   </component>
 </project>

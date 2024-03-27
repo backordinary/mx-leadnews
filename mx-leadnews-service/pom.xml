@@ -26,6 +26,7 @@
             <groupId>com.mx</groupId>
             <artifactId>mx-leadnews-model</artifactId>
         </dependency>
+
         <dependency>
             <groupId>com.mx</groupId>
             <artifactId>mx-leadnews-common</artifactId>
