@@ -18,6 +18,11 @@
             <artifactId>mx-leadnews-utils</artifactId>
         </dependency>
         <dependency>
+            <groupId>com.mx</groupId>
+            <artifactId>mx-leadnews-model</artifactId>
+        </dependency>
+
+        <dependency>
             <groupId>org.reflections</groupId>
             <artifactId>reflections</artifactId>
         </dependency>
