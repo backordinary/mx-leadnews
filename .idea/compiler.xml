@@ -2,12 +2,14 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mx-leadnews-utils" />
         <module name="mx-leadnews-feign-api" />
+        <module name="mx-leadnews-article" />
         <module name="mx-leadnews-test" />
         <module name="mx-leadnews-app-gateway" />
         <module name="mx-leadnews-common" />
@@ -20,6 +22,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="mx-leadnews" options="-parameters" />
       <module name="mx-leadnews-app-gateway" options="-parameters" />
+      <module name="mx-leadnews-article" options="-parameters" />
       <module name="mx-leadnews-common" options="-parameters" />
       <module name="mx-leadnews-feign-api" options="-parameters" />
       <module name="mx-leadnews-gateway" options="-parameters" />

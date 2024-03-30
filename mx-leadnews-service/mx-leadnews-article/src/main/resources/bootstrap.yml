@@ -1,8 +1,8 @@
 server:
-  port: 51801
+  port: 51802
 spring:
   application:
-    name: leadnews-user
+    name: leadnews-article
   #忽略掉配置类
   autoconfigure:
     exclude: org.springframework.boot.autoconfigure.data.redis.RedisAutoConfiguration
